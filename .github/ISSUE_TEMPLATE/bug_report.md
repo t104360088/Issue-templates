@@ -1,12 +1,11 @@
+---	
 name: 問題回報
 about: 遇到 Bug 請在此回報，我們將盡快改善，提供大家更好的服務
 title: ''
 labels: bug
 assignees: t104360088
 
-
----	---
-
+---
 
 ## 回報者信箱
 請在此提供您的 Email 信箱
